@@ -4,7 +4,7 @@ Rimuport é um site que converte a planilha que é gerada pelo expoblinda em um 
 
 ## como usar?
 
-1. acessar o site [Rimiport](rimublinda.github.io/rimuport/).
+1. acessar o site [Rimiport](https://rimublinda.github.io/rimuport/).
 2. coloque sua planilha como publica e copie o link dela.
 3. cole  esse link no campo do site que tem para colar o link.
 4. e aperte  o botão "Converter".
